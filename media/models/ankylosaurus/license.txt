@@ -1,0 +1,11 @@
+Model Information:
+* title:	Castle Fortress
+* source:	https://sketchfab.com/3d-models/castle-fortress-130ed7e4af5d45b98d8b7dd6a424d729
+* author:	Helyx Silveira (https://sketchfab.com/helyxsilveira)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Castle Fortress" (https://sketchfab.com/3d-models/castle-fortress-130ed7e4af5d45b98d8b7dd6a424d729) by Helyx Silveira (https://sketchfab.com/helyxsilveira) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
